@@ -102,7 +102,7 @@ public class UnitTest1
     [TestCase(2, true)]//caso 2 
     [TestCase(10, false)]//caso não primo
     [TestCase(1999, true)]//caso primo grande
-    [TestCase(2000, false)]//caso não primo grande
+    [TestCase(2001, false)]//caso não primo grande
     public void IsPrime_VariosCenarios(int a, bool esperado)//Act
     {
         var calc = new Caladora();//Arrange

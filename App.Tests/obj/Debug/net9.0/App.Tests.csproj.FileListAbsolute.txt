@@ -101,3 +101,4 @@ E:\VisualStudio\ProjetosConsole\lab-nunit\App.Tests\obj\Debug\net9.0\refint\App.
 E:\VisualStudio\ProjetosConsole\lab-nunit\App.Tests\obj\Debug\net9.0\App.Tests.pdb
 E:\VisualStudio\ProjetosConsole\lab-nunit\App.Tests\obj\Debug\net9.0\App.Tests.genruntimeconfig.cache
 E:\VisualStudio\ProjetosConsole\lab-nunit\App.Tests\obj\Debug\net9.0\ref\App.Tests.dll
+e:\VisualStudio\ProjetosConsole\lab-nunit\App.Tests\obj\Debug\net9.0\App.Tests.sourcelink.json

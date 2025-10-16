@@ -9,3 +9,4 @@ E:\VisualStudio\ProjetosConsole\lab-nunit\App.Core\obj\Debug\net9.0\App.Core.dll
 E:\VisualStudio\ProjetosConsole\lab-nunit\App.Core\obj\Debug\net9.0\refint\App.Core.dll
 E:\VisualStudio\ProjetosConsole\lab-nunit\App.Core\obj\Debug\net9.0\App.Core.pdb
 E:\VisualStudio\ProjetosConsole\lab-nunit\App.Core\obj\Debug\net9.0\ref\App.Core.dll
+E:\VisualStudio\ProjetosConsole\lab-nunit\App.Core\obj\Debug\net9.0\App.Core.sourcelink.json
